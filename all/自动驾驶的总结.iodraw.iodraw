@@ -178,8 +178,11 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-81" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;End-to-End Autonomous Driving: Challenges&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;and Frontiers&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="1280" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-83" value="PPO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1360" width="40" height="30" as="geometry" />
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-83" value="综述" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-84" value="综述" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1350" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
