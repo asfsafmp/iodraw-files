@@ -100,7 +100,7 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-43" value="实验环境" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-47" value="仿真平台：MetaDrive；5 类测试路况：直道、环形、十字路口、T 型路口、环岛" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-47" value="仿真平台：MetaDrive；5 类测试路况：直道、环形、十字路口、T 型路口、环岛&lt;div&gt;对比算法：PPO、A2C、CrossQ、SAC、TD3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="500" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
