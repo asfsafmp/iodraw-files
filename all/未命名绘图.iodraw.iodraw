@@ -64,8 +64,8 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-29" value="创新点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-30" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space: pre;&quot;&gt;端到端深度学习 + RL 成为主流，但奖励函数设计仍然是核心瓶颈&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="250" width="820" height="60" as="geometry" />
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-30" value="基于 PPO，融合多模态输入（自车状态 + 语义导航 + 激光雷达感知），结合 GAIL 专家引导 + DCARW 动态奖励，适配复杂交通场景" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="250" width="820" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
