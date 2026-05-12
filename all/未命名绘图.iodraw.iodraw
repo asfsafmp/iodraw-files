@@ -136,8 +136,14 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-58" value="训练所EGCARL模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="710" width="410" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-65" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B3caV1MSY92Kg7Ig09u_-62" target="B3caV1MSY92Kg7Ig09u_-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-62" value="增加路面的车辆数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1605" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-64" value="消融实验" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
