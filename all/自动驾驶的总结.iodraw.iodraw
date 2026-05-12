@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="yVc1SDDYpLUT3W4JhImp">
-    <mxGraphModel dx="3004" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="3863" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,10 +172,7 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-77" value="奖励设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="650" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-80" value="End-to-End Autonomous Driving: Challenges&#xa;and Frontiers" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1390" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-81" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EGCARL: A PPO-based reinforcement learning method with expert guidance and dynamic rewards for autonomous driving&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-81" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;End-to-End Autonomous Driving: Challenges&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;and Frontiers&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="1180" width="400" height="60" as="geometry" />
         </mxCell>
       </root>
