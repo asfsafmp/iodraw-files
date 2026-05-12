@@ -124,6 +124,9 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-54" value="实验方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-63" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B3caV1MSY92Kg7Ig09u_-56" target="B3caV1MSY92Kg7Ig09u_-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-56" value="&lt;span style=&quot;text-align: left;&quot;&gt;对于每种RL方法,我们使用相同的参数但不同的随机种子在每个场景上重复训练五次&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="790" width="410" height="60" as="geometry" />
         </mxCell>
@@ -132,6 +135,9 @@
         </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-58" value="训练所EGCARL模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="710" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-62" value="增加路面的车辆数量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
