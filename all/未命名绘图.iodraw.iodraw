@@ -128,7 +128,7 @@
           <mxGeometry x="1460" y="780" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-58" value="训练所EGCARL模型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="710" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
