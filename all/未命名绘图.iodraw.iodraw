@@ -157,7 +157,7 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-67" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;想法&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-69" value="本文是以奖励设计为核心，在训练和测试阶段进行的设计，文章的语义信息依赖的是分层观测编码器，是否可以引入大模型进行深层语义的挖掘" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-69" value="本文是以奖励设计为核心，在训练和测试阶段进行的设计，文章的语义信息依赖的是分层观测编码器&lt;div&gt;奖励设计是否加入一个管理者智能体进行奖励的该你了和分配，语义信息是否可以引入大模型进行深层语义的挖掘&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1100" width="500" height="60" as="geometry" />
         </mxCell>
       </root>
