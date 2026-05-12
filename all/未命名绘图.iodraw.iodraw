@@ -67,8 +67,11 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创新点&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-30" value="基于 PPO的经验导向，融合多模态输入，结合 GAIL 专家引导 + DCARW 动态奖励，适配复杂交通场景" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-30" value="基于 PPO的经验导向，融合多模态输入，结合 GAIL 专家引导 + DCARW 动态奖励，适配复杂交通场景，提出了" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="240" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-32" value="EGCARL 框架" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="450" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
