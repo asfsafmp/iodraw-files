@@ -13,6 +13,9 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-5" value="强化学习" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-9" value="自动驾驶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
