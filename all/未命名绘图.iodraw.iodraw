@@ -112,8 +112,8 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-49" value="实验指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-51" value="任务成功率 (%)、碰撞率 (%)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="620" width="270" height="60" as="geometry" />
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-51" value="任务成功率 (%)、碰撞率 (%)、驶离道路率 (%)、单步推理耗时 (s)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="620" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
