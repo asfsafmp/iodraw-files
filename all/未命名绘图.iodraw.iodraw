@@ -49,8 +49,8 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-22" value="固定奖励导致无法适配动态的环境，不能提供安全性、舒适度等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2281" y="30" width="229" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-25" value="固定奖励导致无法适配动态的环境，不能提供安全性、舒适度等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2291" y="40" width="229" height="60" as="geometry" />
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-25" value="逆强化学习和模仿学习都依赖大量的专家数据库，泛化能力差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2281" y="110" width="229" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
