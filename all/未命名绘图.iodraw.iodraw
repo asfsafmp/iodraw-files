@@ -43,6 +43,9 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B3caV1MSY92Kg7Ig09u_-20" target="B3caV1MSY92Kg7Ig09u_-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B3caV1MSY92Kg7Ig09u_-20" target="B3caV1MSY92Kg7Ig09u_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-20" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space: pre;&quot;&gt;端到端深度学习 + RL 成为主流，但奖励函数设计仍然是核心瓶颈&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="130" width="820" height="60" as="geometry" />
         </mxCell>
@@ -50,7 +53,10 @@
           <mxGeometry x="2281" y="30" width="229" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B3caV1MSY92Kg7Ig09u_-25" value="逆强化学习和模仿学习都依赖大量的专家数据库，泛化能力差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2281" y="110" width="229" height="60" as="geometry" />
+          <mxGeometry x="2281" y="130" width="229" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-27" value="逆强化学习和模仿学习都依赖大量的专家数据库，泛化能力差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2291" y="140" width="229" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
