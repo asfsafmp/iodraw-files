@@ -115,6 +115,12 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-51" value="任务成功率 (%)、碰撞率 (%)、驶离道路率 (%)、单步推理耗时 (s)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="620" width="410" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-53" value="对于每种RL方法,我们使用相同的参数但不同的随机种子在每个 场景上重复训练五次" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="770" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-54" value="实验指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
