@@ -169,7 +169,7 @@
         <mxCell id="B3caV1MSY92Kg7Ig09u_-76" value="PPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B3caV1MSY92Kg7Ig09u_-77" value="PPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B3caV1MSY92Kg7Ig09u_-77" value="奖励设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="570" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
