@@ -512,8 +512,8 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;背景&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-33" value="&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;现有自动驾驶 LLM 多基于图像 / 激光雷达输入，&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: 24px; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;缺乏完整空间感知&lt;/span&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;，推理过程不透明&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="3060" width="520" height="60" as="geometry" />
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-33" value="传统 MARL 缺陷" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="3020" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
