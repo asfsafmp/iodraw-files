@@ -620,6 +620,9 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-76" value="&lt;h3 style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 24px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;现有基础模型融合方案存在局限：仅依赖语言描述或单一正负目标、实时推理导致延迟、依赖简化仿真环境、输出离散指令难以满足连续控制需求&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="3890" width="520" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-82" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创新点&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="940" y="3350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
