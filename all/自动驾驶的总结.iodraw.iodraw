@@ -488,6 +488,9 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-6" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;LiDAR语义分割、3D目标检测、LiDAR全景分割、零样本语义分割&lt;/h3&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="3770" width="520" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实验任务&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="3880" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
