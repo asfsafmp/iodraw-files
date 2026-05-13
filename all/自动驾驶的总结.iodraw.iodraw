@@ -512,6 +512,9 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-30" target="QZHjCgdGI7F-af1o7mwn-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-30" target="QZHjCgdGI7F-af1o7mwn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CCMA: A framework for cascading cooperative multi-agent in autonomous driving merging using Large Language Models&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="3340" width="400" height="60" as="geometry" />
         </mxCell>
@@ -533,7 +536,7 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-51" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-43" target="QZHjCgdGI7F-af1o7mwn-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创新点&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;创新点&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="930" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-44" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM + 自动驾驶现状：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;多聚焦单智能体，忽略多车协作、&lt;/span&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; background-color: initial;&quot;&gt;实时性不足、缺少空间推理、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;动态环境适应能力差&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -556,6 +559,12 @@
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-50" value="&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;全局层:大模型+RAG算法，进行动态优化奖励函数、历史经验复用、自适权重的联合奖励函数&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1265" y="3410" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-56" target="QZHjCgdGI7F-af1o7mwn-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-56" target="QZHjCgdGI7F-af1o7mwn-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实验&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="3560" width="120" height="60" as="geometry" />
