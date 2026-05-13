@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="yVc1SDDYpLUT3W4JhImp">
-    <mxGraphModel dx="4004" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="3179" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,7 +590,7 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-69" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="300" y="4090" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-70" value="感知层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="3410" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
