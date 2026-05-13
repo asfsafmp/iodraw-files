@@ -505,8 +505,8 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-24" value="VFM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="530" y="3290" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-25" value="VFM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="3300" width="40" height="30" as="geometry" />
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-25" value="多模态融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="3290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
