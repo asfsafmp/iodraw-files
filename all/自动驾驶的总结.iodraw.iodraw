@@ -593,6 +593,12 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-70" value="层级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="3410" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-71" value="RAG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="3410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-72" value="RAG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3410" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
