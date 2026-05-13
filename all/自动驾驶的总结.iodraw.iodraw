@@ -627,7 +627,10 @@
           <mxGeometry x="1197.5" y="4000" width="520" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-87" value="&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;分层奖励合成方法：&lt;/h3&gt;&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0);&quot;&gt;第一阶段：对 CLG 语义奖励归一化，避免极端值影响。&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0);&quot;&gt;第二阶段：融合车辆状态信息，通过乘法公式生成综合奖励，兼顾语义理解与实际驾驶动力学&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1197.5" y="4120" width="520" height="130" as="geometry" />
+          <mxGeometry x="1197.5" y="4120" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-88" value="批量处理训练优化" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="4320" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
