@@ -503,6 +503,9 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-25" value="多模态融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="480" y="4700" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-29" value="CCMA: A framework for cascading cooperative multi-agent in autonomous driving merging using Large Language Models" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3260" width="560" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
