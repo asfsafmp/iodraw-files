@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="yVc1SDDYpLUT3W4JhImp">
-    <mxGraphModel dx="2716" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="3002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,7 +537,7 @@
           <mxGeometry x="1155" y="3190" width="385" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-46" value="&lt;h3 style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: start; display: block; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;个体层：基础的强化学习，进行单车辆实时决策、避撞、快速回响&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="3270" width="385" height="60" as="geometry" />
+          <mxGeometry x="1265" y="3270" width="385" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZHjCgdGI7F-af1o7mwn-47" target="QZHjCgdGI7F-af1o7mwn-46">
           <mxGeometry relative="1" as="geometry" />
@@ -549,10 +549,10 @@
           <mxGeometry x="1080" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZHjCgdGI7F-af1o7mwn-49" value="&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;区域层：微调大模型，进行多车空间协作、分配驾驶风格&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="3340" width="385" height="60" as="geometry" />
+          <mxGeometry x="1265" y="3340" width="385" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-50" value="&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;全局层&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="3410" width="385" height="60" as="geometry" />
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-50" value="&lt;h3 style=&quot;font: 400 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;全局层：&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="3410" width="385" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
