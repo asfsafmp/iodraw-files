@@ -680,10 +680,10 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-100" value="&lt;span style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 16px; line-height: 24px; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px;&quot;&gt;SR（任务成功率）、&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0, 0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start;&quot;&gt;跨城镇泛化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1340" y="4560" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-108" value="层级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-108" value="奖励融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="4160" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QZHjCgdGI7F-af1o7mwn-109" value="RAG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-109" value="CLG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="4160" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
