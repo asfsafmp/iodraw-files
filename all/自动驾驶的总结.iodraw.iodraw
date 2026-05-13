@@ -467,6 +467,9 @@
         <mxCell id="QZHjCgdGI7F-af1o7mwn-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实验环境&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="3670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QZHjCgdGI7F-af1o7mwn-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实验环境&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="3770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
